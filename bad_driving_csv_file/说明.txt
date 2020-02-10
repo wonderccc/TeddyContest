@@ -1,0 +1,10 @@
+*****
+这个文件夹存储的是车辆不良驾驶行为信息的数据（共十辆车）
+*****
+各个属性列的含义说明
+bad_driving_time：不良驾驶行为发生的时间
+bad_driving_lng：经度
+bad_driving_lat：纬度
+bad_driving_name：不良驾驶行为的类型名称
+bad_driving_info：详细信息
+*****

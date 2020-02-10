@@ -1,0 +1,4 @@
+*****
+map_img：包含十个利用folium绘制的交互式地图的截图；
+plt_img：包含十个利用matplotlib绘制的路线图；
+*****
